@@ -20,7 +20,8 @@ const Marcela = {
   askMeAbout: ["data analist", "tech", "Anime", "tv series"],
   code: ["python", "SQL", "HTML", "CSS"],
   tools: ["Power Bi", "Spread sheets", "Excel", "Power point", "Sap"],
-  databases: ["SQL server", "MySql"]
+  databases: ["SQL server", "MySql"],
+  whatsapp: +54 1149798758
 }
 ```
 
